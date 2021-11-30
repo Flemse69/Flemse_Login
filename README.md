@@ -1,2 +1,2 @@
 # Login
-Login lavet til vRP med disclaimer og spawnselector
+Login lavet med disclaimer og spawnselector
